@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-5t83m/static/css/main.0b41e5cb.chunk.css",
+    "main.js": "https://.github.io/csb-5t83m/static/js/main.90ac663c.chunk.js",
+    "main.js.map": "https://.github.io/csb-5t83m/static/js/main.90ac663c.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-5t83m/static/js/runtime-main.855bd840.js",
+    "runtime-main.js.map": "https://.github.io/csb-5t83m/static/js/runtime-main.855bd840.js.map",
+    "static/js/2.e73d7780.chunk.js": "https://.github.io/csb-5t83m/static/js/2.e73d7780.chunk.js",
+    "static/js/2.e73d7780.chunk.js.map": "https://.github.io/csb-5t83m/static/js/2.e73d7780.chunk.js.map",
+    "static/js/3.ff88a14c.chunk.js": "https://.github.io/csb-5t83m/static/js/3.ff88a14c.chunk.js",
+    "static/js/3.ff88a14c.chunk.js.map": "https://.github.io/csb-5t83m/static/js/3.ff88a14c.chunk.js.map",
+    "static/js/4.c2515505.chunk.js": "https://.github.io/csb-5t83m/static/js/4.c2515505.chunk.js",
+    "static/js/4.c2515505.chunk.js.map": "https://.github.io/csb-5t83m/static/js/4.c2515505.chunk.js.map",
+    "index.html": "https://.github.io/csb-5t83m/index.html",
+    "precache-manifest.7d88a059e7f6ec083711b4263a44257a.js": "https://.github.io/csb-5t83m/precache-manifest.7d88a059e7f6ec083711b4263a44257a.js",
+    "service-worker.js": "https://.github.io/csb-5t83m/service-worker.js",
+    "static/css/main.0b41e5cb.chunk.css.map": "https://.github.io/csb-5t83m/static/css/main.0b41e5cb.chunk.css.map",
+    "static/js/2.e73d7780.chunk.js.LICENSE": "https://.github.io/csb-5t83m/static/js/2.e73d7780.chunk.js.LICENSE",
+    "static/js/3.ff88a14c.chunk.js.LICENSE": "https://.github.io/csb-5t83m/static/js/3.ff88a14c.chunk.js.LICENSE",
+    "static/js/4.c2515505.chunk.js.LICENSE": "https://.github.io/csb-5t83m/static/js/4.c2515505.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.855bd840.js",
+    "static/js/3.ff88a14c.chunk.js",
+    "static/css/main.0b41e5cb.chunk.css",
+    "static/js/main.90ac663c.chunk.js"
+  ]
+}
